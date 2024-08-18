@@ -8,12 +8,12 @@
 
 ## 🛠️ Dépendances
 
-- `os`
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `seaborn`
-- `sklearn`
+<img src="https://img.shields.io/badge/os-000000?style=for-the-badge&logo=linux&logoColor=white" alt="os">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 
 ## 📝 Description du Projet
 
