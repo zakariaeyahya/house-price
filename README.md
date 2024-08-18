@@ -24,8 +24,6 @@ Ensuite, le projet utilise la régression linéaire pour prédire les prix des m
 ## 🚀 Utilisation
 
 Pour exécuter le projet, lancez simplement le script Python dans un environnement avec les dépendances nécessaires installées.
-
-```bash
 python analyse_prix_maisons.py
 ## 📊 Résultats
 
